@@ -5,6 +5,7 @@ public enum Location {
     DURBAN(com.ulrich.matthiae.spring.clouddemo.flight.client.cost.Location.DURBAN),
     CAPE_TOWN(com.ulrich.matthiae.spring.clouddemo.flight.client.cost.Location.CAPE_TOWN),
     GEORGE(com.ulrich.matthiae.spring.clouddemo.flight.client.cost.Location.GEORGE),
+    HARARE(com.ulrich.matthiae.spring.clouddemo.flight.client.cost.Location.HARARE),
     PORT_ELIZABETH(com.ulrich.matthiae.spring.clouddemo.flight.client.cost.Location.PORT_ELIZABETH);
 
     private com.ulrich.matthiae.spring.clouddemo.flight.client.cost.Location costLocation;

@@ -5,5 +5,6 @@ public enum Location {
     DURBAN,
     CAPE_TOWN,
     GEORGE,
+    HARARE,
     PORT_ELIZABETH;
 }
